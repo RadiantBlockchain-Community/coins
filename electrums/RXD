@@ -1,0 +1,18 @@
+[
+  {
+    "url": "electrumx-dex01.radiantexplorer.com:40001",
+    "protocol": "SSL",
+    "contact": [
+      { "email": "info@radiant4people.com" }
+    ],
+    "ws_url": "electrumx-dex01.radiantexplorer.com:40002"
+  },
+  {
+    "url": "electrumx-dex02.radiantexplorer.com:40001",
+    "protocol": "SSL",
+    "contact": [
+      { "email": "info@radiant4people.com" }
+    ],
+    "ws_url": "electrumx-dex02.radiantexplorer.com:40002"
+  },
+]
